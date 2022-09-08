@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/jordandidit/portfolio.git/static/css/main.e083f29e.chunk.css",
+    "main.js": "/jordandidit/portfolio.git/static/js/main.2fea153e.chunk.js",
+    "main.js.map": "/jordandidit/portfolio.git/static/js/main.2fea153e.chunk.js.map",
+    "runtime-main.js": "/jordandidit/portfolio.git/static/js/runtime-main.c7887f59.js",
+    "runtime-main.js.map": "/jordandidit/portfolio.git/static/js/runtime-main.c7887f59.js.map",
+    "static/js/2.15afe240.chunk.js": "/jordandidit/portfolio.git/static/js/2.15afe240.chunk.js",
+    "static/js/2.15afe240.chunk.js.map": "/jordandidit/portfolio.git/static/js/2.15afe240.chunk.js.map",
+    "index.html": "/jordandidit/portfolio.git/index.html",
+    "static/css/main.e083f29e.chunk.css.map": "/jordandidit/portfolio.git/static/css/main.e083f29e.chunk.css.map",
+    "static/js/2.15afe240.chunk.js.LICENSE.txt": "/jordandidit/portfolio.git/static/js/2.15afe240.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7887f59.js",
+    "static/js/2.15afe240.chunk.js",
+    "static/css/main.e083f29e.chunk.css",
+    "static/js/main.2fea153e.chunk.js"
+  ]
+}
